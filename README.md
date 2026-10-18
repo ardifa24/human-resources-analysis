@@ -46,6 +46,8 @@ Setup environment:
 
 Dashboard HR Analytics ini dirancang menggunakan Looker Studio untuk memberikan gambaran menyeluruh mengenai kondisi attrition karyawan secara visual dan interaktif, sehingga tim HR dapat memantau serta menganalisis pola turnover tanpa perlu membuka data mentah atau notebook analisis.
 
+![Dashboard](Human-Resorces-Dashboard.png)
+
 **Fitur Filter Interaktif**
 Dashboard dilengkapi filter *Department* dan *Job Role* di bagian kiri atas, memungkinkan pengguna memfokuskan analisis pada departemen atau posisi pekerjaan tertentu secara dinamis.
 
