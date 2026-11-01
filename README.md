@@ -5,7 +5,7 @@
 Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri sejak tahun 2000 dan memiliki lebih dari 1000 karyawan. Meskipun telah menjadi perusahaan yang cukup besar, departemen HR memiliki permasalahan dalam mengelola karyawan, sehingga berimbas pada tingginya attrition rate lebih dari 10%. Permasalahan ini dapat mempengaruhi produktivitas perusahaan dan biaya yang dikeluarkan untuk rekrutmen serta pelatihan karyawan baru.
 
 ### Permasalahan Bisnis
-Tingkat attrition rate Jaya Jaya Maju saat ini berada di angka 16,9%, sebuah kondisi yang tidak dapat diabaikan mengingat dampaknya terhadap tiga aspek utama, yaitu aspek finansial, produktivitas, dan jangka panjang.
+Tingkat attrition perusahaan saat ini berada di angka 16,9%, sebuah kondisi yang tidak dapat diabaikan mengingat dampaknya terhadap tiga aspek utama, yaitu aspek finansial, produktivitas, dan jangka panjang.
 Dari aspek finansial, setiap karyawan yang resign menambah beban biaya rekrutmen, seleksi, dan pelatihan karyawan baru, yang secara akumulatif membebani anggaran operasional. Dari aspek produktivitas, turnover yang terus menerus mengganggu kestabilan tim, memperlambat penyelesaian proyek, serta membebani karyawan yang tersisa dengan beban kerja tambahan selama masa transisi pencarian pengganti. Serta dari aspek jangka panjang berisiko hilangnya institutional knowledge dari karyawan berpengalaman,serta menurunkan moral dan engagement karyawan yang bertahan.
 Apabila permasalahan ini tidak segera ditangani, attrition rate berisiko terus meningkat dan berdampak pada menurunnya stabilitas operasional serta daya saing perusahaan secara berkelanjutan.
 
